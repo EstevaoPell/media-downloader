@@ -1,0 +1,8 @@
+﻿build/
+dist/
+*.spec
+*.exe
+*.mp4
+*.mp3
+*.ogg
+__pycache__/
